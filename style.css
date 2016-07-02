@@ -1,0 +1,20 @@
+
+.bg-image{
+    position:fixed;
+    left:0;
+    top:0;
+    z-index:-1;
+    height: 100%;
+    width:100%; 
+    opacity: 0.5
+}
+
+h1 {
+    text-align: center;}
+h2 {
+    text-indent: 40px;
+    color: cornflowerblue;
+    text-decoration: underline;}
+/* .yas {
+    opacity: 0.9;
+} */
