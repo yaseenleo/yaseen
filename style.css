@@ -1,0 +1,48 @@
+
+.bg-image{
+    position:fixed;
+    left:0;
+    top:0;
+    z-index:-1;
+    height: 100%;
+    width:100%; 
+    opacity: 0.5
+}
+
+h1 {
+    text-align: center;}
+h2 {
+    text-indent: 40px;
+    color: cornflowerblue;
+    text-decoration: underline;}
+/* .yas {
+    opacity: 0.9;
+} */
+.container{
+    text-align: center;
+    padding: 200px;
+}
+.sign {text-indent: 0px;
+       color: black;
+       text-decoration: none;
+}
+
+.first{
+    border-left-style: none;
+    border-right-style: none;
+    border-top-style: none;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.forth{
+    border-left-style: none;
+    border-right-style: none;
+    border-top-style: none;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
